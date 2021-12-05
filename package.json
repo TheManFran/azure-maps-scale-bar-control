@@ -1,5 +1,5 @@
 {
-  "name": "azure-maps-scale-bar-control",
+  "name": "azure-maps-scale-bar-control-udm",
   "version": "0.0.1",
   "description": "An Azure Maps Web SDK module that provides a control that displays a scale bar relative to the pixel resolution at the center of the map.",
   "keywords": [
@@ -11,9 +11,9 @@
     "microsoft"
   ],
   "bugs": {
-    "url": "https://github.com/Azure-Samples/azure-maps-scale-bar-control/issues"
+    "url": "https://github.com/TheManFran/azure-maps-scale-bar-control/issues"
   },
-  "homepage": "https://github.com/Azure-Samples/azure-maps-scale-bar-control#readme",
+  "homepage": "https://github.com/TheManFran/azure-maps-scale-bar-control#readme",
   "scripts": {
     "build": "node ./build/build.js"
   },
